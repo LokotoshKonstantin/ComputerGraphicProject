@@ -1,1 +1,3 @@
 # ComputerGraphicProject
+
+Hello, dude!

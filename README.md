@@ -10,3 +10,5 @@ https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repo
 
 О ветвлении:
 https://habr.com/en/post/106912/
+
+Завтра поговорю с Лошкаревым.
